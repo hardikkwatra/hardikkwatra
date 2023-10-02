@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/brutalg21614093" target="blank"><img src="https://img.shields.io/twitter/follow/brutalg21614093?logo=twitter&style=for-the-badge" alt="brutalg21614093" /></a> </p>
 
-- 🔭 I’m currently working **on Dev ops and Data science projects.**
+- 🔭  **I’m currently working on Dev ops and Data science projects.**
 
-- 🌱 I’m currently learning **Data Science & AWS.**
+- 🌱  **I’m currently learning Data Science & AWS.**
 
-- 🤝 I’m currently **seeking guidance and support in finding internship opportunities that align with my interests and career goals. Dev ops and Data science projects.**
+- 🤝  **I’m currently seeking guidance and support in finding internship opportunities that align with my interests and career goals. Dev ops and Data science projects.**
 
-- 📫How to reach me **hardikkwatra0014@gmail.com**
+- 📫  **How to reach me hardikkwatra0014@gmail.com**
 
-- ⚡ Apart from coding, **I enjoy playing online video games, chess and reading light novels.**
+- ⚡  **Apart from coding, I enjoy playing online video games, chess and reading light novels.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
