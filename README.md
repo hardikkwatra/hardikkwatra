@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://twitter.com/brutalg21614093" target="blank"><img src="https://img.shields.io/twitter/follow/brutalg21614093?logo=twitter&style=for-the-badge" alt="brutalg21614093" /></a> </p>
 
  <h1 align="left">💫 About Me:</h1>
+ 
 - 🔭  **I’m currently working on Dev ops and Data science projects.**
 
 - 🌱  **I’m currently learning Data Science & AWS.**
