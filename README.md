@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hardik Kwatra</h1>
 
-<h3 align="center">currently persuing bachelor's in Computer Science Engineering with specialization in Gaming.</h3>
+<h3 align="center">currently working as DevOps engineer at Refold AI.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
